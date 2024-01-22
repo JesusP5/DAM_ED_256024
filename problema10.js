@@ -1,0 +1,1 @@
+const videojuego = {Nombre: 'Stray', Genero: 'Indie', Duracion: '5 horas aprox', Desarrollador: 'Beteshda'};
